@@ -1,5 +1,5 @@
 build/
 dist/
-*.spec
+krabs/
 winAPI_log.json
 main.cpp
