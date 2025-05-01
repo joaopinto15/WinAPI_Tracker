@@ -1,0 +1,5 @@
+build/
+dist/
+*.spec
+winAPI_log.json
+main.cpp
