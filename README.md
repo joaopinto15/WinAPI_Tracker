@@ -84,3 +84,9 @@ Each API call hook is logged as a structured JSON object:
   ]
 }
 ```
+
+### 🎥 Demo
+
+A short screen recording showing real-time process detection, Frida injection, and WinAPI logging in action.
+
+![Process Monitor Demo](./gif.gif)
